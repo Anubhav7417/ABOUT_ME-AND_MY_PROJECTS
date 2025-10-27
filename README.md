@@ -1,4 +1,3 @@
-👨‍💻 About Me
 I'm a pre-final year Computer Science student at GLA University, Mathura, where my journey in technology truly began. Coming from a background with no prior tech exposure in school, college opened up a whole new world of possibilities for me. What started as basic programming courses soon transformed into a genuine passion for creating practical solutions and exploring the fascinating field of cybersecurity.
 
 🎓 Academic Journey @ GLA University
