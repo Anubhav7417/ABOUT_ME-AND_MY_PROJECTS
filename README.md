@@ -44,6 +44,10 @@ Database management systems
 
 API development
 
+n8n
+
+Firebase and Databricks
+
 🚀 Featured Projects
 📚 BookHub - Book Review Application
 A modern React.js application for book enthusiasts to discover, review, and track their reading journey.
