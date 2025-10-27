@@ -1,7 +1,7 @@
-I'm a pre-final year Computer Science student at GLA University, Mathura, where my journey in technology truly began. Coming from a background with no prior tech exposure in school, college opened up a whole new world of possibilities for me. What started as basic programming courses soon transformed into a genuine passion for creating practical solutions and exploring the fascinating field of cybersecurity.
+<p I'm a pre-final year Computer Science student at GLA University, Mathura, where my journey in technology truly began. Coming from a background with no prior tech exposure in school, college opened up a whole new world of possibilities for me. What started as basic programming courses soon transformed into a genuine passion for creating practical solutions and exploring the fascinating field of cybersecurity. /p>
 
-🎓 Academic Journey @ GLA University
-Bachelor of Technology in Computer Science & Engineering (2023-2027)
+<h2 🎓 Academic Journey @ GLA University /h2>
+<p Bachelor of Technology in Computer Science & Engineering (2023-2027) /p>
 
 Current Focus: Web Development, Python Applications, Cybersecurity Fundamentals
 
@@ -47,10 +47,9 @@ API development
 n8n
 
 Firebase and Databricks
-
-🚀 Featured Projects
-📚 BookHub - Book Review Application
-A modern React.js application for book enthusiasts to discover, review, and track their reading journey.
+<h2 🚀 Featured Projects /h2>
+<h3 📚 BookHub - Book Review Application /h3>
+<p A modern React.js application for book enthusiasts to discover, review, and track their reading journey./p>
 
 🔗 GitHub Repository: BookHub
 🛠️ Tech Stack: React.js, CSS3, Font Awesome
