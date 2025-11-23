@@ -1,11 +1,4 @@
-Absolutely! ✅
-I’ve **merged all your new information** into the previous README and crafted a clean, professional, and powerful version that represents your journey, skills, and projects clearly.
-
-Here’s your **updated complete README/Portfolio** 👇
-
----
-
-# 🌟 **Anubhav Singh**
+# 🌟 Anubhav Singh
 
 ### *Web Developer • Open Source Learner • Cybersecurity Explorer*
 
@@ -17,128 +10,121 @@ Here’s your **updated complete README/Portfolio** 👇
 
 ---
 
-## 👋 **About Me**
+## 👋 About Me
 
-I'm a **pre-final year Computer Science student at GLA University, Mathura**, where my real tech journey began.
-Coming from a non-tech background, college opened the doors to programming, development, and innovation.
+I'm a **pre-final year Computer Science student at GLA University, Mathura**, where my tech journey truly began. Coming from a non-tech background, college introduced me to programming, development, and digital innovation.
 
-What began as curiosity has now grown into a passion for:
+What started as curiosity has now grown into a passion for:
 
-✅ **Building practical web solutions**
-✅ **Exploring cybersecurity fundamentals**
-✅ **Creating meaningful digital experiences**
+✅ Building practical web solutions  
+✅ Exploring cybersecurity fundamentals  
+✅ Creating meaningful user experiences  
 
 Every day is a chance to **debug, learn, and grow**. 🚀
 
 ---
 
-## 🎓 **Academic Journey**
+## 🎓 Academic Journey
 
-**Bachelor of Technology — CSE (2023–2027)**
+**Bachelor of Technology — Computer Science & Engineering (2023–2027)**  
+
 **Current Focus:** Web Development • Python Applications • Cybersecurity
 
-### 🏛️ **Clubs & Communities**
-
-* Google Developer Student Clubs (GDSC)
-* CodeChef GLA Chapter
-* ACM Student Chapter
-* Cyber Security Club
+### 🏛️ Clubs & Communities
+- Google Developer Student Clubs (GDSC)
+- CodeChef GLA Chapter
+- ACM Student Chapter
+- Cyber Security Club
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
-### ✅ **Languages**
-
+### ✅ Languages
 Python • Java • C • HTML • CSS • JavaScript
 
-### ✅ **Tools & Platforms**
-
+### ✅ Tools & Platforms
 Git • GitHub • VS Code • Firebase • n8n
 
-### ✅ **Currently Learning**
-
+### ✅ Currently Learning
 React.js • Databricks • API Development • Cybersecurity
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-### 👨‍💻 **CodeBuddy — Find Your Code Buddy**
-
-A platform to help students find coding partners, form teams, and collaborate on real-world projects.
-**Tech:** HTML • CSS • JavaScript *(Node & Express planned)*
-**Features:** AI project matching, team chat, authentication, dashboards, analytics
+### 👨‍💻 CodeBuddy — Find Your Code Buddy
+A platform that helps students find coding partners, form teams, and build real-world projects.  
+**Tech:** HTML • CSS • JavaScript *(Node & Express planned)*  
+**Features:** AI-based project matching, authentication, team chat, dashboards, analytics
 
 ---
 
-### 📚 **BookHub — Book Review Application**
-
-A modern, user-friendly platform to explore, review, and track books.
-**Tech:** React.js • CSS3 • Font Awesome
+### 📚 BookHub — Book Review Application
+A modern React web app for discovering, reviewing, and tracking books.  
+**Tech:** React.js • CSS3 • Font Awesome  
 **Features:** Dark mode, genre filters, community reviews, responsive UI
 
 ---
 
-### 🏫 **Hostel Management System**
-
-A streamlined platform to manage hostel activities and student records.
-**Tech:** HTML5 • CSS3 • JavaScript
-**Features:** Student portal, leave requests, mess payments, mobile-friendly design
-
----
-
-## 📌 **Other Projects**
-
-* **BOOK_REVIEW_APP** — Simple responsive review platform (HTML, JS)
-* **MY_PORTFOLIO** — Personal portfolio website
-* **CAREERPATH-AI** — AI-based career guidance tool (JavaScript)
+### 🏫 Hostel Management System
+A responsive web platform for managing hostel operations and student records.  
+**Tech:** HTML5 • CSS3 • JavaScript  
+**Features:** Student portal, leave management, mess payments, mobile support
 
 ---
 
-## 🚀 **Tech Stack Overview**
+## 📌 Other Projects
 
-💻 **Frontend:** HTML • CSS • JavaScript • React
-🎨 **Styling:** Tailwind CSS • Bootstrap
-🧰 **Workflow:** Git • GitHub • VS Code • Netlify • Render
-✏️ **Design:** Figma • Canva
+- **BOOK_REVIEW_APP** — Simple responsive book review platform (HTML, JS)
+- **MY_PORTFOLIO** — Personal portfolio website
+- **CAREERPATH-AI** — AI-based career suggestion tool (JavaScript)
 
 ---
 
-## 📊 **GitHub Stats**
+## 🚀 Tech Stack Overview
+
+💻 **Frontend:** HTML • CSS • JavaScript • React  
+🎨 **Styling:** Tailwind CSS • Bootstrap  
+🧰 **Workflow:** Git • GitHub • VS Code • Netlify • Render  
+✏️ **Design:** Figma • Canva  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Anubhav7417\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anubhav7417\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav7417\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Anubhav7417&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anubhav7417&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav7417&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## ❤️ **Connect With Me**
+## ❤️ Connect With Me
 
-📧 Email: **[jonssower07@gmail.com](mailto:jonssower07@gmail.com)**
-🔗 LinkedIn: **linkedin.com/in/anubhav-singh-a800b307**
-🔗 Pinterest: **Scared_abhiij_profile**
-🔗 ORCID: **0009-0001-6034-3078**
+📧 **Email:** jonssower07@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/anubhav-singh-a800b307  
+🔗 **Pinterest:** Scared_abhiij_profile  
+🔗 **ORCID:** 0009-0001-6034-3078  
 
 ---
 
-## ✨ **Quote I Live By**
+## ✨ Quote I Live By
 
 > *“Consistency beats motivation.”*
 
 ---
 
-### ✅ Next Enhancements (If You Want)
+### ✅ Want Add-ons?
 
 I can add:
-✔ Badges (skills, profile views, followers, etc.)
-✔ Project links & live demos
-✔ Internship/Certification section
-✔ Resume download button
-✔ Portfolio website version
+✔ Skill badges  
+✔ Project links & live demos  
+✔ Resume button  
+✔ Achievements & certifications section  
+✔ Profile views counter  
 
-Just say: **"Yes, add them!"** 😎
+Just say **"Add them!"** 😎
