@@ -58,12 +58,6 @@ Every day is a chance to **debug, learn, and grow**. 🚀
 
 **Bachelor of Technology — Computer Science & Engineering (2023–2027)**  
 
-### 🏛️ Clubs & Communities
-- Google Developer Student Clubs (GDSC)
-- CodeChef GLA Chapter
-- ACM Student Chapter
-- Cyber Security Club
-
 ---
 
 ## 🚀 Featured Projects
@@ -126,7 +120,7 @@ Your personal portfolio website.
 
 ## 📄 Resume
 
-👉 **[Download My Resume](https://anubhav7417.github.io/MY_PORTFOLIO/Assets/resume...pdf)**
+👉 **[View My Resume](https://anubhav7417.github.io/MY_PORTFOLIO/Assets/resume...pdf)**
 
 ---
 
