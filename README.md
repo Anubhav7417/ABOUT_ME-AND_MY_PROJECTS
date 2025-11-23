@@ -1,108 +1,144 @@
+Absolutely! ✅
+I’ve **merged all your new information** into the previous README and crafted a clean, professional, and powerful version that represents your journey, skills, and projects clearly.
 
-# 💼 Anubhav Singh — Portfolio & Projects
-
-## 👋 About Me
-I'm a pre-final year **Computer Science student at GLA University, Mathura**, where my journey in technology truly began.  
-Coming from a background with no prior tech exposure in school, college opened up a whole new world of possibilities for me.  
-What started as basic programming courses soon transformed into a genuine passion for **creating practical solutions** and exploring the fascinating field of **cybersecurity**.
+Here’s your **updated complete README/Portfolio** 👇
 
 ---
 
-## 🎓 Academic Journey @ GLA University
-**Bachelor of Technology in Computer Science & Engineering (2023–2027)**
+# 🌟 **Anubhav Singh**
 
-**Current Focus:** Web Development, Python Applications, Cybersecurity Fundamentals
-
-**University Clubs & Activities:**
-- Google Developer Student Clubs (GDSC)
-- CodeChef GLA Chapter
-- ACM Student Chapter
-- Cyber Security Club
-
----
-
-## 🛠️ Technical Skills
-- **Languages:** Python, Java, C, HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code, Firebase, n8n  
-- **Currently Learning:** React.js, Databricks, API Development, Cybersecurity
-
----
-
-# 🚀 Featured Projects (Brief Overview)
-
-### 👨‍💻 CodeBuddy — Find Your Code Buddy
-A collaboration platform that helps students find coding partners, form project teams, and build real-world applications.  
-🛠️ *HTML, CSS, JavaScript, Node.js (future), Express.js (future)*  
-✨ Features: User authentication, AI-powered project matching, team chat, dashboards, and analytics.
-
----
-
-### 📚 BookHub — Book Review Application
-A modern React app where users can discover, review, and track their reading journey.  
-🛠️ *React.js, CSS3, Font Awesome*  
-✨ Features: Dark theme UI, book discovery, genre filtering, community reviews, and responsive design.
-
----
-
-### 🏫 Hostel Management System
-A responsive web app for managing hostel operations with dashboards for wardens and students.  
-🛠️ *HTML5, CSS3, JavaScript*  
-✨ Features: Student portal, leave management, mess payments, and mobile support.
-
----
-
-### 🧮 Smart Python Utility Suite
-A bundle of Python applications like calculator, password generator, and mini-games.  
-🛠️ *Python, Tkinter, Pygame*  
-✨ Includes: Smart calculator, password generator, to-do app, expense tracker, snake, and tic-tac-toe.
-
----
-
-### ✈️ Air Message — Animated Airplane Banner
-A fun project where airplanes fly across the screen carrying custom text banners.  
-🛠️ *HTML, CSS, JavaScript*  
-✨ Features: Pixel-style planes, random colors, custom messages, and responsive layout.
-
----
-
-### 🌐 Personal Portfolio Website
-My personal responsive portfolio showcasing skills, achievements, and professional background.  
-🛠️ *HTML5, CSS3, Font Awesome*  
-✨ Features: Animated UI, contact form, certifications, and modern layout.
-
----
-
-### 📰 Medium Simple Clone
-A simple clone of Medium’s homepage built purely with HTML and CSS.  
-🛠️ *HTML, CSS*  
-✨ Features: Clean UI, navigation bar, footer, and responsive hero section.
-
----
-
-# 📈 Summary
-
-| Project | Stack | Focus |
-|----------|--------|--------|
-| CodeBuddy | HTML, JS, Node.js | Collaboration & networking |
-| BookHub | React.js | Book reviews & discovery |
-| Hostel Management | HTML, JS | Student management |
-| Python Suite | Python | Desktop utilities |
-| Air Message | HTML, JS | Animation project |
-| Portfolio | HTML, CSS | Personal branding |
-| Medium Clone | HTML, CSS | Static layout |
-
----
-
-## 📫 Connect With Me
-- **GitHub:** [Anubhav7417](https://github.com/Anubhav7417)
-- **LinkedIn:** [Anubhav Singh](https://www.linkedin.com/in/anubhav-singh-aa800b307)
-- **Email:** [jonsnower07@gmail.com](mailto:jonsnower07@gmail.com)
-
----
-
-## 📄 License
-All projects are licensed under the **MIT License** unless otherwise stated.
+### *Web Developer • Open Source Learner • Cybersecurity Explorer*
 
 <div align="center">
-Made with 💙 by Anubhav Singh
+
+![cover](https://github.com/mrhimanshu0207/Assets/blob/main/gradient-banner.gif)
+
 </div>
+
+---
+
+## 👋 **About Me**
+
+I'm a **pre-final year Computer Science student at GLA University, Mathura**, where my real tech journey began.
+Coming from a non-tech background, college opened the doors to programming, development, and innovation.
+
+What began as curiosity has now grown into a passion for:
+
+✅ **Building practical web solutions**
+✅ **Exploring cybersecurity fundamentals**
+✅ **Creating meaningful digital experiences**
+
+Every day is a chance to **debug, learn, and grow**. 🚀
+
+---
+
+## 🎓 **Academic Journey**
+
+**Bachelor of Technology — CSE (2023–2027)**
+**Current Focus:** Web Development • Python Applications • Cybersecurity
+
+### 🏛️ **Clubs & Communities**
+
+* Google Developer Student Clubs (GDSC)
+* CodeChef GLA Chapter
+* ACM Student Chapter
+* Cyber Security Club
+
+---
+
+## 🛠️ **Technical Skills**
+
+### ✅ **Languages**
+
+Python • Java • C • HTML • CSS • JavaScript
+
+### ✅ **Tools & Platforms**
+
+Git • GitHub • VS Code • Firebase • n8n
+
+### ✅ **Currently Learning**
+
+React.js • Databricks • API Development • Cybersecurity
+
+---
+
+## 🚀 **Featured Projects**
+
+### 👨‍💻 **CodeBuddy — Find Your Code Buddy**
+
+A platform to help students find coding partners, form teams, and collaborate on real-world projects.
+**Tech:** HTML • CSS • JavaScript *(Node & Express planned)*
+**Features:** AI project matching, team chat, authentication, dashboards, analytics
+
+---
+
+### 📚 **BookHub — Book Review Application**
+
+A modern, user-friendly platform to explore, review, and track books.
+**Tech:** React.js • CSS3 • Font Awesome
+**Features:** Dark mode, genre filters, community reviews, responsive UI
+
+---
+
+### 🏫 **Hostel Management System**
+
+A streamlined platform to manage hostel activities and student records.
+**Tech:** HTML5 • CSS3 • JavaScript
+**Features:** Student portal, leave requests, mess payments, mobile-friendly design
+
+---
+
+## 📌 **Other Projects**
+
+* **BOOK_REVIEW_APP** — Simple responsive review platform (HTML, JS)
+* **MY_PORTFOLIO** — Personal portfolio website
+* **CAREERPATH-AI** — AI-based career guidance tool (JavaScript)
+
+---
+
+## 🚀 **Tech Stack Overview**
+
+💻 **Frontend:** HTML • CSS • JavaScript • React
+🎨 **Styling:** Tailwind CSS • Bootstrap
+🧰 **Workflow:** Git • GitHub • VS Code • Netlify • Render
+✏️ **Design:** Figma • Canva
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Anubhav7417\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anubhav7417\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav7417\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## ❤️ **Connect With Me**
+
+📧 Email: **[jonssower07@gmail.com](mailto:jonssower07@gmail.com)**
+🔗 LinkedIn: **linkedin.com/in/anubhav-singh-a800b307**
+🔗 Pinterest: **Scared_abhiij_profile**
+🔗 ORCID: **0009-0001-6034-3078**
+
+---
+
+## ✨ **Quote I Live By**
+
+> *“Consistency beats motivation.”*
+
+---
+
+### ✅ Next Enhancements (If You Want)
+
+I can add:
+✔ Badges (skills, profile views, followers, etc.)
+✔ Project links & live demos
+✔ Internship/Certification section
+✔ Resume download button
+✔ Portfolio website version
+
+Just say: **"Yes, add them!"** 😎
